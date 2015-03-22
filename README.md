@@ -1,5 +1,5 @@
 # Coursera:Getting and Cleaning Data - Repository for Course Project
-## Arvind Mozumdar
+### Author: Arvind Mozumdar
 
 This is the repository for hosting the R code, Codebook and other details for the Course Project for Getting and Cleaning Data.
 
